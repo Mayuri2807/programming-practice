@@ -4,7 +4,7 @@ int CountDigits(int iNo)
 {
     int iDigit = 0, iCount = 0;
 
-    if(iNo < 0) // Updator
+    if(iNo < 0) 
     {
         iNo = -iNo;
     }
