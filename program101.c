@@ -1,5 +1,5 @@
 // Input : 5
-// Output : *   *   *   *   *
+// Output : *   *   *   *   *  
 
 #include<stdio.h>
 
